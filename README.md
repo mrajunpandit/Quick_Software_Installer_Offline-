@@ -72,4 +72,4 @@ MIT License — free to use and modify.
 
 ## 👨‍💻 Author
 
-Made by **[Your Name]** | [GitHub Profile Link]
+Made by **[Arjun Pandit]** | [https://github.com/mrajunpandit]
